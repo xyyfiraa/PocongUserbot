@@ -1,6 +1,6 @@
 # 🍀 © @tofik_dn
 # ⚠️ Do not remove credits
-
+''''
 import requests
 import random
 from userbot import CMD_HANDLER as cmd
@@ -81,3 +81,4 @@ CMD_HELP.update(
     "
     }
 )
+''''
