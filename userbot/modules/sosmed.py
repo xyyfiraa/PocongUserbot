@@ -12,7 +12,7 @@ from userbot import CMD_HELP
 from userbot.utils import edit_delete, edit_or_reply, poci_cmd
 
 
-@poci_cmd(pattern="ig(?: |$)(.*)")
+@poci_cmd(pattern="vig(?: |$)(.*)")
 async def _(event):
     xxnx = event.pattern_match.group(1)
     if xxnx:
@@ -51,7 +51,7 @@ async def _(event):
         await xx.delete()
 
 
-@poci_cmd(pattern="tiktok(?: |$)(.*)")
+@poci_cmd(pattern="vtt(?: |$)(.*)")
 async def _(event):
     xxnx = event.pattern_match.group(1)
     if xxnx:
