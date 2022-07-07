@@ -1,6 +1,6 @@
 # <p align="center">𝑃𝑜𝑐𝑜𝑛𝑔 𝑈𝑠𝑒𝑟𝑏𝑜𝑡</p>
 
-<img src="https://telegra.ph/file/0297888edbdc754503e0b.jpg">
+<img src="https://telegra.ph/file/192152b45ea64db6c72c8.jpg">
 </p>
 
 <p align="center">
