@@ -16,7 +16,7 @@ async def _(event):
         asupannya = [
             asupan
             async for asupan in event.client.iter_messages(
-                "@Asupan_Pocong", filter=InputMessagesFilterVideo
+                "@protprotviral", filter=InputMessagesFilterVideo
             )
         ]
         sy = await event.client.get_me()
@@ -69,13 +69,6 @@ CMD_HELP.update(
         \n  •  **Function : **Mengirim video asupan tiktok secara random.\
         \n\n  •  **Syntax :** `{cmd}chika`\
         \n  •  **Function : **Mengirim video chika secara random.\
-    "
-    }
-)
-
-CMD_HELP.update(
-    {
-        "wibu": f"**Plugin : **`Wibu`\
         \n\n  •  **Syntax :** `{cmd}wibu`\
         \n  •  **Function : **Mengirim secara random video anime\
     "
