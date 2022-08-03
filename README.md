@@ -26,6 +26,13 @@ mengelola grup secara efisien dan mengotomatiskan beberapa hal yang membosankan.
 Gunakan bot ini dengan risiko Anda sendiri, dan gunakan dengan bijak.
 ```
 
+## NOTE
+
+```
+Jangan deploy repo ini jika ID telegram kalian ber awalan 50 , 51 , 52 , 53 , 54 , 55.
+karena dapat membuat akun telegram kalian terbanned / terhapus , jika ingin menggunakan repo ini pastikan ID telegram kalian ber awalan 1.
+```
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
